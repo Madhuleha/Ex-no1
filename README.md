@@ -80,7 +80,8 @@ END START
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="1280" height="1066" alt="image" src="https://github.com/user-attachments/assets/08dd9cce-d17b-4a05-b801-a792cb252fab" />
+<img width="638" height="444" alt="image" src="https://github.com/user-attachments/assets/cf53eea4-f217-4c4c-87c7-f681ea93adc9" />
+
 
 
 
